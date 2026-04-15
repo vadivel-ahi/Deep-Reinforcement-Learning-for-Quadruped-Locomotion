@@ -1,3 +1,3 @@
-Learning Curves
-
-Thise folder contains the learning curve for the policy
+# Learning Curves
+   
+   This folder contains learning curves of trained policies.
