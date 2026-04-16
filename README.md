@@ -151,8 +151,9 @@ python evaluate.py --model models/baseline_FINAL.zip --video
 ## 📂 Key Files
 
 - `train.py` - Main training script with all reward variants
-- `reward_wrappers.py` - Custom reward function implementations
-- `evaluate.py` - Evaluation and video generation
+- `fixed_symmetric_train.py` - Training for the fixed symmetric gait
+- `evaluate_learning_curve_with_fixed_symmetric.py` - Ploting the learning curve including the fixed symmetric gait
+- `evaluate_reward_shaping_with_fixed_symmetric.py` - Ploting the reward shaping comparison including the fixed symmetric gait
 - `results/` - All experimental data and plots
 
 ---
