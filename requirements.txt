@@ -1,0 +1,25 @@
+# Core RL Framework
+gymnasium[mujoco]==0.29.1
+stable-baselines3[extra]==2.2.1
+
+# Deep Learning
+torch>=2.0.0
+numpy>=1.24.0,<2.0.0
+
+# Visualization & Analysis
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+
+# Video Generation
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+
+# Scientific Computing
+scipy>=1.10.0
+
+# Optional: Progress Bars
+tqdm>=4.65.0
+
+# Optional: Logging
+tensorboard>=2.13.0
